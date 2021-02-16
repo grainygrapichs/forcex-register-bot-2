@@ -13,7 +13,7 @@
     },
 
     "roles": {
-        "erkek": "ERKEK ROL İD"
+        "erkek": "ERKEK ROL İD",
         "kız": "KIZ ROL İD",
         "booster": "BOOSTER ROL İD",
         "unregister": "UNREGİSTER ROL İD"
