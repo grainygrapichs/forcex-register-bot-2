@@ -1,0 +1,26 @@
+﻿{
+    "prefix": ".",
+    "owner": [],
+    "presence": "Forcex ❤ REGİSTER",
+
+
+    "mod": {
+        "reg": "REG YETKİLİ ROL İD"
+    },
+
+    "sembol": {
+        "tag": "TAGINIZ"
+    },
+
+    "roles": {
+        "erkek": "ERKEK ROL İD"
+        "kız": "KIZ ROL İD",
+        "booster": "BOOSTER ROL İD",
+        "unregister": "UNREGİSTER ROL İD"
+    },
+
+    "emojis": {
+        "onay": "✅"
+    }
+
+}
