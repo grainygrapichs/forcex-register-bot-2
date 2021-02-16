@@ -8,7 +8,7 @@ const {DatabaseManager,Database} = require('@aloshai/mongosha')
 const registerdb = DatabaseManager.getDatabase("KAYIT");
 
 ///FORCEX TARAFINDAN KODLANDI ❤️ 
- DatabaseManager.connect("mongodb+srv://forcex-123:AptalbotçulaRsarmıŞ.987mongo@cluster0.9hmr8.mongodb.net/forcexbot?retryWrites=true&w=majority")
+ DatabaseManager.connect("MONGODB")
 
 
 client.aliases = new Discord.Collection();
@@ -26,7 +26,7 @@ fs.readdirSync('./Commands').forEach(a => {
   }) 
 
 client.on("ready",  async() => {
-  console.log("Forcex ❤️ İmperial");
+  console.log("Forcex ❤️ Register");
   client.user.setPresence({activity: {name: config.presence}})
 })
 
