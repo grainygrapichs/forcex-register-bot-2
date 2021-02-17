@@ -56,7 +56,7 @@ if(isNaN(age)) return message.channel.forcex("Yaş girmeyi unuttun!",message.cha
 };
 
 exports.configuration = {
-  CommandName: ["e","erkek"],
-  description: "erkek olarak kayıt eder.",
-  usage: "e @Member <isim> <yaş>"
+  CommandName: ["k","kadın"],
+  description: "kız olarak kayıt eder.",
+  usage: "k @Member <isim> <yaş>"
 };
